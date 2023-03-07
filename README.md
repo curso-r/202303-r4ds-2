@@ -22,6 +22,12 @@
 | [05-purrr.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/05-purrr.html)                         |
 | [06-nse.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/06-nse.html)                             |
 
+## Exemplos de Aula
+
+| Exemplo                                                                               |
+|:--------------------------------------------------------------------------------------|
+| [01_manipulacao.R](https://curso-r.github.io/202303-r4ds-2/exemplos/01_manipulacao.R) |
+
 ## Exercícios
 
 | Exercício                                                                               |
