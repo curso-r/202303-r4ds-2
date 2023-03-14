@@ -27,6 +27,7 @@
 | Exemplo                                                                               |
 |:--------------------------------------------------------------------------------------|
 | [01_manipulacao.R](https://curso-r.github.io/202303-r4ds-2/exemplos/01_manipulacao.R) |
+| [02_strings.R](https://curso-r.github.io/202303-r4ds-2/exemplos/02_strings.R)         |
 
 ## Exercícios
 
