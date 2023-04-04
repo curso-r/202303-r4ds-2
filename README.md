@@ -25,11 +25,12 @@
 
 ## Exemplos de Aula
 
-| Exemplo                                                                                   |
-|:------------------------------------------------------------------------------------------|
-| [01_manipulacao.R](https://curso-r.github.io/202303-r4ds-2/exemplos/01_manipulacao.R)     |
-| [02_strings.R](https://curso-r.github.io/202303-r4ds-2/exemplos/02_strings.R)             |
-| [03_datas_fatores.R](https://curso-r.github.io/202303-r4ds-2/exemplos/03_datas_fatores.R) |
+| Exemplo                                                                                         |
+|:------------------------------------------------------------------------------------------------|
+| [01_manipulacao.R](https://curso-r.github.io/202303-r4ds-2/exemplos/01_manipulacao.R)           |
+| [02_strings.R](https://curso-r.github.io/202303-r4ds-2/exemplos/02_strings.R)                   |
+| [03_datas_fatores.R](https://curso-r.github.io/202303-r4ds-2/exemplos/03_datas_fatores.R)       |
+| [04_controle_funcoes.R](https://curso-r.github.io/202303-r4ds-2/exemplos/04_controle_funcoes.R) |
 
 ## Exercícios
 
