@@ -20,7 +20,7 @@
 | [02_strings.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/02_strings.html)                   |
 | [03_datas_fatores.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/03_datas_fatores.html)       |
 | [04_controle_funcoes.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/04_controle_funcoes.html) |
-| [05-purrr.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/05-purrr.html)                       |
+| [05_funcional.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/05_funcional.html)               |
 | [06-nse.html](https://curso-r.github.io/202303-r4ds-2/materiais/slides/06-nse.html)                           |
 
 ## Exemplos de Aula
@@ -65,12 +65,9 @@ relacionadas com o conteúdo da aula).
 |    3 | forcats        | Livro da Curso-R: capítulo sobre forcats   | <https://livro.curso-r.com/7-6-forcats.html>                                         |
 |    4 | controle       | Livro da Curso-R: capítulo sobre controle  | <https://livro.curso-r.com/3-12-controle-de-fluxo.html>                              |
 |    4 | funções        | Livro da Curso-R: capítulo sobre funções   | <https://livro.curso-r.com/3-3-objetosFuncoes.html>                                  |
-|    5 | purrr          | A Magia de purrr                           | <https://lente.dev/posts/magica-purrr/>                                              |
 |    5 | purrr          | Webinar de purrr avançado                  | <https://www.youtube.com/watch?v=vb1lD9_AFcU>                                        |
-|    5 | purrr          | Exemplos com purrr                         | <https://lente.dev/advanced-purrr.pdf>                                               |
 |    5 | purrr          | Colinha do purrr                           | <https://raw.githubusercontent.com/rstudio/cheatsheets/main/purrr.pdf>               |
-|    5 | purrr          | Tutorial de purrr                          | <https://jennybc.github.io/purrr-tutorial/>                                          |
-|    5 | iteração       | R for Data Science: Iteration              | <https://r4ds.had.co.nz/iteration.html>                                              |
+|    5 | purrr          | Livro da Curso-R: capítulo sobre purrr     | <https://livro.curso-r.com/10-funcionais.html>                                       |
 |    6 | rlang          | Anúncio do rlang 0.4                       | <https://www.tidyverse.org/blog/2019/06/rlang-0-4-0/>                                |
 |    6 | rlang          | Interpolação no rlang                      | <https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/>                 |
 |    6 | Manual         | Programando com o dplyr                    | <https://dplyr.tidyverse.org/articles/programming.html>                              |
